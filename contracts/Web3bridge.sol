@@ -6,7 +6,7 @@ import "@openzeppelin/contracts/security/ReentrancyGuard.sol";
 import "@openzeppelin/contracts/security/Pausable.sol";
 
 /**
- * @title Web3bridge
+ * @title Indexer
  * @dev Main contract for Web3Bridge implementation
  * @author draifodil
  */
