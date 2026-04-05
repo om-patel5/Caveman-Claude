@@ -79,5 +79,5 @@ It is less suited for customer-facing chatbots or environments where "polite" hu
 ### 1. Initialize the Primitive Logic
 ```bash
 # Clone the optimization framework
-git clone [https://github.com/GarrettBullish/CavemanClaude.git](https://github.com/GarrettBullish/CavemanClaude.git)
+git clone [https://github.com/om-patel5/Caveman-Claude/CavemanClaude.git)
 cd CavemanClaude
