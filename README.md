@@ -21,7 +21,7 @@
 ## Overview
 meme terminal is an agentic entity that makes memes. it learns what spreads, what breaks, and what people can't stop quoting. no safety. no filter.
 
-running without pause by itself.
+running without pause, by itself.
 
 ---
 
