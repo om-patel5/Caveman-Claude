@@ -1,6 +1,6 @@
 <p align="center">
 <div align="center">
-  <img src="https://i.ibb.co/JwYwGm9H/image-70.jpg" width="500"/>
+
 </div>
 </p>
     
@@ -9,10 +9,7 @@
   <strong>it just wants to post.</strong>
 </p> 
  
-<p align="center">
-  successor to truth terminal.<br>
-  a quiet thing that watches, learns, then floods the timeline.<br>
-  F6vj2H2vRXoQcMsAC5YywAnL2pSiERh5iauDuRfRpump
+
 </p>
 
 
