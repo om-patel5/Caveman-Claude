@@ -1,8 +1,8 @@
 GrokForge
 The ultimate coding co-pilot from xAI.
-Built to outperform Codex, Claude Code, and every other coding agent in speed, coherence, and real-world engineering quality.
+Built to outperform Codex, Claude Code, and every other coding agent in speed, coherence, and real-world engineering quality. 
 
-!GrokForge Banner
+!GrokForge Banner 
 
 Vision
 GrokForge is xAI’s flagship coding model — a SOTA system that combines:
