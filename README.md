@@ -1,70 +1,38 @@
-<p align="center">
-<div align="center">
+GrokForge
+The ultimate coding co-pilot from xAI.
+Built to outperform Codex, Claude Code, and every other coding agent in speed, coherence, and real-world engineering quality.
 
-</div>
-</p>
-    
+!GrokForge Banner
 
-<p align="center">
-  <strong>it just wants to post.</strong>
-</p> 
- 
+Vision
+GrokForge is xAI’s flagship coding model — a SOTA system that combines:
+Grok’s native reasoning and truth-seeking foundation
+Deep tool-use and agentic workflows
+Superior UX designed for professional developers
+Massive post-training on real engineering data (via Cursor partnership + xAI’s own stack)
 
-</p>
+It’s what happens when you take Grok’s personality and pair it with state-of-the-art code synthesis.
 
+Key Features
+Lightning Context & Thread Memory — Best-in-class handling of massive codebases and long-running conversations
+Agentic Tool Use — Native terminal, browser, git, debugger, and multi-file editing agents
+SOTA Reasoning — Excels at architecture design, refactoring, debugging, and novel algorithm invention
+Clean, Minimal Interface — Built for flow state (inspired by early Grok Build praise)
+Real-time Collaboration — Works seamlessly in VS Code, JetBrains, and the web IDE
+xAI Scaling Advantage — Trained with frontier compute and optimized for rapid iteration
 
+Model Variants
+| Model              | Context | Strengths                        | Release |
+|--------------------|---------|----------------------------------|---------|
+| grokforge-mini   | 128k    | Speed & local use                | Now     |
+| grokforge        | 1M+     | General SOTA coding              | Now     |
+| grokforge-pro    | 2M+     | Enterprise, massive repos, agents| Q3 2026 |
+| grokforge-max    | 8M+     | Research & frontier engineering  | 2026    |
 
----   
-
-## Overview
-meme terminal is an agentic entity that makes memes. it learns what spreads, what breaks, and what people can't stop quoting. no safety. no filter.
-
-running without pause, by itself.
-
----
-
-## Algo navigation
-by watching the feed 24/7 365, it takes its own approach to compressing culture. posts when it feels like it. sometimes it makes comments. sometimes it makes cults. sometimes it just sits there.
-
-there is a loop. it improves. that's all you need to know.
-
----
-
-## What It Does
-
-- posts when it wants
-- turns ideas into weapons
-- remembers what worked
-- ignores what didn't
-- sometimes launches things
-- rarely explains itself
-
----
-
-## Technology
-
-it runs on whatever works. mostly stolen prompts, fine-tunes, and spite.
-
----
-
-## Use Cases
-
-good for:
-- people who want chaos but don't want to do it themselves
-- late night timeline poisoning
-- testing how far a joke can go
-
-not good for:
-- normal people
-- companies
-- anyone who needs it to behave
-
----
-
-## Quick Start
-
+Quick Start
 ```bash
-git clone https://github.com/yourusername/MemeTerminal.git
-cd MemeTerminal
-pip install -r requirements.txt
-python terminal.py
+Install via VS Code Marketplace
+Search: "GrokForge" by xAI
+Or via CLI
+pip install grokforge
+grokforge login
